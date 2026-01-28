@@ -11,7 +11,7 @@
 `Focusing on the intersection of entropy, algorithms, and structural design.`
 
 - 🤖 **AI & Data:** Architecting scalable pipelines and GenAI solutions.
-- 📐 **Aesthetics:** Deconstructing Stance Core & XYLAB visual logic.
+- 📐 **Aesthetics:** Deconstructing Stance Core & XYLAB visual logic. XYLab: Where Neural Data meets Delicate Lace. 
 - 💼 **Ventures:** Scaling digital-first brands through data-driven growth.
 
 ---
@@ -31,4 +31,5 @@
 
 ---
 
-> "Logic is the fabric; Vision is the cut."
+> "Logic is the fabric; Vision is the cut." 
+> "Stance Core: Define your strength, refined by AI." 

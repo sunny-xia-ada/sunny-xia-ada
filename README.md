@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# ⚡️ Sunny XIA
+# ⚡️ Sunny Xia
 
 **Entrepreneur & Data Architect** *Fusing scalable AI with Stance Core aesthetics to engineer the future of avant-garde commerce and digital-first branding.*
 

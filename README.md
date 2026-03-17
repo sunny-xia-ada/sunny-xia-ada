@@ -237,7 +237,7 @@ Where tools are:
 
 **Yidan Xia**
 
-Builder · Dancer · AI explorer
+Builder · Dancer · AI explorer· Writer· AI explorer· Aesthetic Blogger
 
 Technology should be powerful —  
 but also **warm and beautiful**

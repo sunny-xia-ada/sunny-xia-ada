@@ -5,87 +5,87 @@
 ### AI · Emotion · Aesthetic
 
 A personal creative lab exploring  
-**AI tools with warmth, emotion, and design.**
+AI tools with warmth, emotion, and design.
 
-Not just productivity tools.  
-But **living digital spaces.**
+![AI Creative Lab](https://img.shields.io/badge/AI-Creative%20Lab-0f172a?style=for-the-badge)
+![Generative Interface](https://img.shields.io/badge/Interface-Generative-2563eb?style=for-the-badge)
+![Emotion Driven Design](https://img.shields.io/badge/Design-Emotion--Driven-ec4899?style=for-the-badge)
+![Status Experimental](https://img.shields.io/badge/Status-Experimental-10b981?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🌙 About XYLAB
+<div align="center">
 
-XYLAB is my personal AI playground.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+XYLAB  
+AI · Emotion · Aesthetic  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-A place where I explore the idea that:
+</div>
 
-> AI tools shouldn't feel cold.  
-> They should have **temperature, personality, and aesthetic beauty**.
+## 🌙 About
 
-Most AI tools focus on capability and efficiency.
+XYLAB is my personal creative AI lab.
 
+I build tools around one simple belief:
+
+AI tools should not feel cold.  
+They should have warmth, emotion, and aesthetic beauty.
+
+Most AI products focus on capability and efficiency.  
 XYLAB explores something different:
 
-**AI × Emotion × Interface Design**
+AI × Emotion × Interface Design
 
-Think of it as a **Personal AI Studio** where small tools are built with curiosity, care, and creativity.
-
----
-
-## 🧠 Core Ideas
-
-### Emotion Interface
-
-Traditional software usually offers:
-
-- Light Mode
-- Dark Mode
-
-XYLAB experiments with **emotion-driven spaces** instead.
-
-Examples:
-
-- **Dance Mode**  
-  energetic colors and expressive layouts
-
-- **Core Mode**  
-  minimal structure for focused thinking
-
-- **Play Mode**  
-  playful visuals and creative exploration
-
-Interfaces should adapt to **how you feel**, not just what you do.
+Less like software.  
+More like a living digital space.
 
 ---
 
-### Generative Interface
+## 🧠 Core Concept
 
-Traditional software works like this:
+Traditional software:
 
-Design → Interface
+Function → Interface
 
-XYLAB explores a different idea:
+XYLAB explores:
 
-Intent → AI → Interface
+Emotion → AI → Interface
 
-AI dynamically generates layout, structure, and visual language.
+The goal is not just useful tools,  
+but interfaces that feel expressive and alive.
 
 ---
 
-### Personal AI Spaces
+## 🎨 Emotion Themes
 
-Most software behaves like a **tool**.
+Instead of rigid UI modes like Light Mode and Dark Mode,  
+XYLAB experiments with emotion-driven spaces.
 
-XYLAB explores something closer to a **space**:
+| Theme | Energy | Visual Language |
+|------|------|------|
+| 💃 Dance Mode | Energetic | bold colors, expressive layouts |
+| 🧘 Core Mode | Focused | minimal structure, calm visuals |
+| 🎈 Play Mode | Playful | cute elements, soft interactions |
 
-- writing space  
-- thinking space  
-- creative space  
+Interfaces adapt to how you feel, not just what you do.
 
-Less like software.
+---
 
-More like a **digital studio for the mind**.
+## 🏗 Architecture
+
+User  
+↓  
+Emotion Signal  
+↓  
+Emotion Engine (AI Understanding)  
+↓  
+Generative Interface (Layout + Visual System)  
+↓  
+Personal AI Space  
+Writing · Thinking · Creating
 
 ---
 
@@ -107,63 +107,46 @@ Ready for publishing
 
 Built for:
 
-- content creators
 - writers
+- creators
 - AI publishing workflows
 - social platforms
 
 ---
 
-### Emotion Theme System
+### Emotion Interface System
 
-Experimental interface themes built around **mood and energy**.
+Experimental interface themes based on emotional energy.
 
-**Dance Mode**
+Dance Mode  
+Core Mode  
+Play Mode  
 
-- energetic colors  
-- expressive layouts  
-- creative flow  
-
-**Core Mode**
-
-- minimal structure  
-- focused thinking  
-- deep work  
-
-**Play Mode**
-
-- playful visuals  
-- soft interactions  
-- creative exploration  
+Interfaces become spaces, not just tools.
 
 ---
 
 ## 🌌 Vision
 
-The future of software may evolve like this:
+Software evolution may look like this:
 
-Apps → Agents → Personal AI Spaces
+Web → Apps → Agents → Personal AI Spaces
 
-XYLAB explores what those spaces might feel like.
+XYLAB explores what those personal AI spaces might feel like.
 
-Where tools are:
-
-- intelligent
-- expressive
-- beautiful
+Less like software.  
+More like a digital studio for the mind.
 
 ---
 
 ## 👩‍💻 Author
 
-**Sunny Xia**
+Ada Xia  
 
 Builder · dancer · AI explorer
 
-I build AI tools that feel a little more **human**.
-
-> Technology should be powerful  
-> but also **warm and beautiful**.
+Technology should be powerful  
+but also warm and beautiful.
 
 ---
 

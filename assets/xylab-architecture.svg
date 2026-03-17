@@ -1,0 +1,50 @@
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="100%" height="100%" fill="#020617"/>
+
+<text x="450" y="60"
+text-anchor="middle"
+font-size="36"
+fill="#ffffff"
+font-family="Arial"
+font-weight="700">
+XYLAB System Architecture
+</text>
+
+<rect x="330" y="90" width="240" height="60" rx="12" fill="#ec4899"/>
+<text x="450" y="125" text-anchor="middle" fill="white" font-size="18">Emotion Engine</text>
+
+<line x1="450" y1="150" x2="450" y2="200" stroke="#94a3b8"/>
+
+<rect x="300" y="200" width="300" height="70" rx="12" fill="#2563eb"/>
+<text x="450" y="240" text-anchor="middle" fill="white" font-size="18">
+Generative Interface Engine
+</text>
+
+<line x1="450" y1="270" x2="450" y2="320" stroke="#94a3b8"/>
+
+<rect x="330" y="320" width="240" height="60" rx="12" fill="#10b981"/>
+<text x="450" y="355" text-anchor="middle" fill="white" font-size="18">
+Personal AI Space
+</text>
+
+<line x1="450" y1="380" x2="260" y2="440" stroke="#94a3b8"/>
+<line x1="450" y1="380" x2="450" y2="440" stroke="#94a3b8"/>
+<line x1="450" y1="380" x2="640" y2="440" stroke="#94a3b8"/>
+
+<rect x="170" y="440" width="180" height="50" rx="10" fill="#334155"/>
+<text x="260" y="470" text-anchor="middle" fill="white" font-size="16">
+Smart Layout Agent
+</text>
+
+<rect x="360" y="440" width="180" height="50" rx="10" fill="#334155"/>
+<text x="450" y="470" text-anchor="middle" fill="white" font-size="16">
+Travel Agent
+</text>
+
+<rect x="550" y="440" width="180" height="50" rx="10" fill="#334155"/>
+<text x="640" y="470" text-anchor="middle" fill="white" font-size="16">
+Video Agent
+</text>
+
+</svg>

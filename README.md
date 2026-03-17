@@ -1,50 +1,116 @@
-<div align="center">
+<p align="center">
+<img src="./assets/xylab-banner.svg" width="900">
+</p>
 
-# ✨ XYLAB
-
-### AI · Emotion · Aesthetic
-
-A personal creative lab exploring  
-AI tools with warmth, emotion, and design.
+<p align="center">
 
 ![AI Creative Lab](https://img.shields.io/badge/AI-Creative%20Lab-0f172a?style=for-the-badge)
 ![Generative Interface](https://img.shields.io/badge/Interface-Generative-2563eb?style=for-the-badge)
 ![Emotion Driven Design](https://img.shields.io/badge/Design-Emotion--Driven-ec4899?style=for-the-badge)
 ![Status Experimental](https://img.shields.io/badge/Status-Experimental-10b981?style=for-the-badge)
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+# ✨ XYLAB
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-XYLAB  
-AI · Emotion · Aesthetic  
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+### AI · Emotion · Aesthetic
 
-</div>
+**A personal creative AI lab.**
 
-## 🌙 About
+Building AI tools with **warmth, emotion, and aesthetic beauty.**
 
-XYLAB is my personal creative AI lab.
+Most AI tools focus on efficiency.
 
-I build tools around one simple belief:
+XYLAB explores something different.
 
-AI tools should not feel cold.  
-They should have warmth, emotion, and aesthetic beauty.
-
-Most AI products focus on capability and efficiency.  
-XYLAB explores something different:
-
-AI × Emotion × Interface Design
-
-Less like software.  
-More like a living digital space.
+AI tools should not only be intelligent —  
+they should also feel **alive**.
 
 ---
 
-## 🧠 Core Concept
+# 🌙 Studio Philosophy
+
+Technology should be powerful.
+
+But tools we interact with every day should also be:
+
+• warm  
+• expressive  
+• beautiful  
+
+XYLAB explores a simple idea:
+
+Emotion → AI → Interface
+
+Interfaces should adapt not only to what you do,  
+but also to **how you feel**.
+
+Less like software.
+
+More like a **living digital space**.
+
+---
+
+# 🌌 The XYLAB Universe
+
+```
+                          ✨ XYLAB ✨
+                    AI · Emotion · Aesthetic
+
+
+                              Sunny
+                               │
+                               │
+                        Personal AI Space
+                               │
+                ┌──────────────┴──────────────┐
+                │                             │
+                ▼                             ▼
+
+        🎨 Interface Space             🤖 Agent Space
+       Emotion-driven UI               AI Capabilities
+
+
+     💃 Dance Mode                   Smart Layout Agent
+     energetic creation
+
+     🧘 Core Mode                    Travel Agent
+     focus and deep work
+
+     🎈 Play Mode                    Video Agent
+     playful exploration
+
+
+                ┌────────────────────────────┐
+                │       🧪 Experiment Lab     │
+                │  ideas · prototypes · AI   │
+                └────────────────────────────┘
+```
+
+XYLAB is not just a collection of tools.
+
+It is a **creative AI studio** where ideas evolve into small living systems.
+
+---
+
+# 🧠 System Architecture
+
+```
+User
+ ↓
+Emotion Signal
+ ↓
+Emotion Engine
+(AI understanding mood and rhythm)
+ ↓
+Generative Interface Engine
+(Layout + Visual Language)
+ ↓
+Personal AI Space
+Writing · Thinking · Creating
+```
 
 Traditional software:
 
@@ -54,46 +120,28 @@ XYLAB explores:
 
 Emotion → AI → Interface
 
-The goal is not just useful tools,  
-but interfaces that feel expressive and alive.
-
 ---
 
-## 🎨 Emotion Themes
+# 🎨 Emotion Interface
 
-Instead of rigid UI modes like Light Mode and Dark Mode,  
-XYLAB experiments with emotion-driven spaces.
+Instead of rigid UI modes like Light Mode or Dark Mode,  
+XYLAB experiments with emotional spaces.
 
-| Theme | Energy | Visual Language |
+| Theme | Energy | Experience |
 |------|------|------|
-| 💃 Dance Mode | Energetic | bold colors, expressive layouts |
-| 🧘 Core Mode | Focused | minimal structure, calm visuals |
-| 🎈 Play Mode | Playful | cute elements, soft interactions |
+| 💃 Dance Mode | Energetic | bold visuals, expressive layouts |
+| 🧘 Core Mode | Focused | minimal structure, calm clarity |
+| 🎈 Play Mode | Playful | soft visuals, creative exploration |
 
-Interfaces adapt to how you feel, not just what you do.
-
----
-
-## 🏗 Architecture
-
-User  
-↓  
-Emotion Signal  
-↓  
-Emotion Engine (AI Understanding)  
-↓  
-Generative Interface (Layout + Visual System)  
-↓  
-Personal AI Space  
-Writing · Thinking · Creating
+Interfaces adapt to your **energy and mood**.
 
 ---
 
-## 🚀 Current Projects
+# 🚀 Current Projects
 
-### Smart Layout Agent
+## Smart Layout Agent
 
-An AI-powered layout system that transforms structured content into beautifully styled interfaces.
+An AI-powered layout system that transforms structured content into beautiful publishable interfaces.
 
 Workflow:
 
@@ -105,53 +153,56 @@ Styled HTML (inline CSS)
 ↓  
 Ready for publishing
 
-Built for:
+Designed for:
 
-- writers
-- creators
-- AI publishing workflows
-- social platforms
+• writers  
+• creators  
+• AI content workflows  
+• social publishing platforms  
 
 ---
 
-### Emotion Interface System
+## Emotion Interface System
 
-Experimental interface themes based on emotional energy.
+Experimental UI themes based on **mood and energy**.
 
 Dance Mode  
 Core Mode  
 Play Mode  
 
-Interfaces become spaces, not just tools.
+Interfaces become **spaces**, not just tools.
 
 ---
 
-## 🌌 Vision
+# 🌠 Vision
 
 Software evolution may look like this:
 
 Web → Apps → Agents → Personal AI Spaces
 
-XYLAB explores what those personal AI spaces might feel like.
+XYLAB explores what those spaces might feel like.
 
-Less like software.  
-More like a digital studio for the mind.
+Where tools are:
+
+• intelligent  
+• expressive  
+• beautiful  
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-Ada Xia  
+Yidan Xia (Sunny)
 
 Builder · dancer · AI explorer
 
-Technology should be powerful  
-but also warm and beautiful.
+I believe technology should be powerful —  
+but also **warm and beautiful**.
 
 ---
 
-<div align="center">
+<p align="center">
 
 ✨
 
-</div>
+</p>

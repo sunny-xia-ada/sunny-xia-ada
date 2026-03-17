@@ -1,35 +1,174 @@
-## Hi there 👋
+<div align="center">
 
+# ✨ XYLAB
 
-# ⚡️ Sunny Xia
+### AI · Emotion · Aesthetic
 
-**Entrepreneur & Data Architect** *Fusing scalable AI with Stance Core aesthetics to engineer the future of avant-garde commerce and digital-first branding.*
+A personal creative lab exploring  
+**AI tools with warmth, emotion, and design.**
 
----
+Not just productivity tools.  
+But **living digital spaces.**
 
-### 🛠 System Intelligence
-`Focusing on the intersection of entropy, algorithms, and structural design.`
-
-- 🤖 **AI & Data:** Architecting scalable pipelines and GenAI solutions.
-- 📐 **Aesthetics:** Deconstructing Stance Core & XYLAB visual logic. XYLab: Where Neural Data meets Delicate Lace. 
-- 💼 **Ventures:** Scaling digital-first brands through data-driven growth.
+</div>
 
 ---
 
-### 💻 Stack & Environment
+## 🌙 About XYLAB
 
-![Python](https://img.shields.io/badge/Python-000-style?logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-000-style?logo=google-cloud&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000-style?logo=pytorch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000-style?logo=databricks&logoColor=white)
-![Brand_Design](https://img.shields.io/badge/Design-Stance_Core-000)
+XYLAB is my personal AI playground.
+
+A place where I explore the idea that:
+
+> AI tools shouldn't feel cold.  
+> They should have **temperature, personality, and aesthetic beauty**.
+
+Most AI tools focus on capability and efficiency.
+
+XYLAB explores something different:
+
+**AI × Emotion × Interface Design**
+
+Think of it as a **Personal AI Studio** where small tools are built with curiosity, care, and creativity.
 
 ---
 
-### 📊 Terminal Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunny-xia-ada&show_icons=true&theme=dark&bg_color=000&hide_border=true)
+## 🧠 Core Ideas
+
+### Emotion Interface
+
+Traditional software usually offers:
+
+- Light Mode
+- Dark Mode
+
+XYLAB experiments with **emotion-driven spaces** instead.
+
+Examples:
+
+- **Dance Mode**  
+  energetic colors and expressive layouts
+
+- **Core Mode**  
+  minimal structure for focused thinking
+
+- **Play Mode**  
+  playful visuals and creative exploration
+
+Interfaces should adapt to **how you feel**, not just what you do.
 
 ---
 
-> "Logic is the fabric; Vision is the cut." 
-> "Stance Core: Define your strength, refined by AI." 
+### Generative Interface
+
+Traditional software works like this:
+
+Design → Interface
+
+XYLAB explores a different idea:
+
+Intent → AI → Interface
+
+AI dynamically generates layout, structure, and visual language.
+
+---
+
+### Personal AI Spaces
+
+Most software behaves like a **tool**.
+
+XYLAB explores something closer to a **space**:
+
+- writing space  
+- thinking space  
+- creative space  
+
+Less like software.
+
+More like a **digital studio for the mind**.
+
+---
+
+## 🚀 Current Projects
+
+### Smart Layout Agent
+
+An AI-powered layout system that transforms structured content into beautifully styled interfaces.
+
+Workflow:
+
+Markdown  
+↓  
+Layout Engine  
+↓  
+Styled HTML (inline CSS)  
+↓  
+Ready for publishing
+
+Built for:
+
+- content creators
+- writers
+- AI publishing workflows
+- social platforms
+
+---
+
+### Emotion Theme System
+
+Experimental interface themes built around **mood and energy**.
+
+**Dance Mode**
+
+- energetic colors  
+- expressive layouts  
+- creative flow  
+
+**Core Mode**
+
+- minimal structure  
+- focused thinking  
+- deep work  
+
+**Play Mode**
+
+- playful visuals  
+- soft interactions  
+- creative exploration  
+
+---
+
+## 🌌 Vision
+
+The future of software may evolve like this:
+
+Apps → Agents → Personal AI Spaces
+
+XYLAB explores what those spaces might feel like.
+
+Where tools are:
+
+- intelligent
+- expressive
+- beautiful
+
+---
+
+## 👩‍💻 Author
+
+**Sunny Xia**
+
+Builder · dancer · AI explorer
+
+I build AI tools that feel a little more **human**.
+
+> Technology should be powerful  
+> but also **warm and beautiful**.
+
+---
+
+<div align="center">
+
+✨
+
+</div>

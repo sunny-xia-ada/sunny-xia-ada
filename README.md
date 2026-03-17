@@ -62,7 +62,7 @@ More like a **living digital space**.
                    AI · Emotion · Aesthetic
 
 
-                            Ada
+                            Snnuy
                              │
                              │
                       Personal AI Space
@@ -235,7 +235,7 @@ Where tools are:
 
 <div align="center">
 
-**Ada Xia**
+**Yidan Xia**
 
 Builder · dancer · AI explorer
 

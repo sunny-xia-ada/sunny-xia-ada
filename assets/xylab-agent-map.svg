@@ -1,0 +1,213 @@
+<svg width="1100" height="700" viewBox="0 0 1100 700" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#020617"/>
+
+  <!-- title -->
+  <text x="550" y="80"
+        text-anchor="middle"
+        font-size="36"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-weight="700">
+    XYLAB Agent Ecosystem
+  </text>
+
+  <text x="550" y="120"
+        text-anchor="middle"
+        font-size="20"
+        fill="#94a3b8"
+        font-family="Arial, Helvetica, sans-serif">
+    Personal AI Studio · Agents with warmth, emotion, and aesthetic
+  </text>
+
+  <!-- center node -->
+  <circle cx="550" cy="360" r="92" fill="#ec4899"/>
+  <circle cx="550" cy="360" r="68" fill="#f472b6"/>
+
+  <text x="550" y="350"
+        text-anchor="middle"
+        font-size="28"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    XYLAB
+  </text>
+
+  <text x="550" y="380"
+        text-anchor="middle"
+        font-size="16"
+        fill="#ffffff"
+        font-family="Arial">
+    Agent Core
+  </text>
+
+  <!-- lines -->
+  <line x1="550" y1="268" x2="550" y2="190" stroke="#475569" stroke-width="2"/>
+  <line x1="485" y1="300" x2="330" y2="210" stroke="#475569" stroke-width="2"/>
+  <line x1="615" y1="300" x2="770" y2="210" stroke="#475569" stroke-width="2"/>
+  <line x1="458" y1="360" x2="250" y2="360" stroke="#475569" stroke-width="2"/>
+  <line x1="642" y1="360" x2="850" y2="360" stroke="#475569" stroke-width="2"/>
+  <line x1="485" y1="420" x2="330" y2="530" stroke="#475569" stroke-width="2"/>
+  <line x1="615" y1="420" x2="770" y2="530" stroke="#475569" stroke-width="2"/>
+  <line x1="550" y1="452" x2="550" y2="560" stroke="#475569" stroke-width="2"/>
+
+  <!-- top -->
+  <rect x="430" y="140" width="240" height="62" rx="14" fill="#2563eb"/>
+
+  <text x="550" y="168"
+        text-anchor="middle"
+        font-size="18"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    Smart Layout Agent
+  </text>
+
+  <text x="550" y="188"
+        text-anchor="middle"
+        font-size="13"
+        fill="#dbeafe"
+        font-family="Arial">
+    layout · publishing · interface
+  </text>
+
+  <!-- top left -->
+  <rect x="150" y="180" width="240" height="62" rx="14" fill="#0f766e"/>
+
+  <text x="270" y="208"
+        text-anchor="middle"
+        font-size="18"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    Travel Agent
+  </text>
+
+  <text x="270" y="228"
+        text-anchor="middle"
+        font-size="13"
+        fill="#ccfbf1"
+        font-family="Arial">
+    trips · itinerary · discovery
+  </text>
+
+  <!-- top right -->
+  <rect x="710" y="180" width="240" height="62" rx="14" fill="#7c3aed"/>
+
+  <text x="830" y="208"
+        text-anchor="middle"
+        font-size="18"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    Video Agent
+  </text>
+
+  <text x="830" y="228"
+        text-anchor="middle"
+        font-size="13"
+        fill="#ede9fe"
+        font-family="Arial">
+    short video · edit · generate
+  </text>
+
+  <!-- left -->
+  <rect x="70" y="329" width="240" height="62" rx="14" fill="#0891b2"/>
+
+  <text x="190" y="357"
+        text-anchor="middle"
+        font-size="18"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    Resale Agent
+  </text>
+
+  <text x="190" y="377"
+        text-anchor="middle"
+        font-size="13"
+        fill="#cffafe"
+        font-family="Arial">
+    pricing · demand · resale decisions
+  </text>
+
+  <!-- right -->
+  <rect x="790" y="329" width="240" height="62" rx="14" fill="#16a34a"/>
+
+  <text x="910" y="357"
+        text-anchor="middle"
+        font-size="18"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    Emotion Interface
+  </text>
+
+  <text x="910" y="377"
+        text-anchor="middle"
+        font-size="13"
+        fill="#dcfce7"
+        font-family="Arial">
+    mood · rhythm · visual language
+  </text>
+
+  <!-- bottom left -->
+  <rect x="150" y="500" width="240" height="62" rx="14" fill="#ea580c"/>
+
+  <text x="270" y="528"
+        text-anchor="middle"
+        font-size="18"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    Experiment Lab
+  </text>
+
+  <text x="270" y="548"
+        text-anchor="middle"
+        font-size="13"
+        fill="#ffedd5"
+        font-family="Arial">
+    ideas · prototypes · creative tests
+  </text>
+
+  <!-- bottom right -->
+  <rect x="710" y="500" width="240" height="62" rx="14" fill="#db2777"/>
+
+  <text x="830" y="528"
+        text-anchor="middle"
+        font-size="18"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    Design Philosophy
+  </text>
+
+  <text x="830" y="548"
+        text-anchor="middle"
+        font-size="13"
+        fill="#fce7f3"
+        font-family="Arial">
+    warmth · emotion · aesthetic
+  </text>
+
+  <!-- bottom -->
+  <rect x="430" y="560" width="240" height="62" rx="14" fill="#334155"/>
+
+  <text x="550" y="588"
+        text-anchor="middle"
+        font-size="18"
+        fill="#ffffff"
+        font-family="Arial"
+        font-weight="700">
+    Personal AI Space
+  </text>
+
+  <text x="550" y="608"
+        text-anchor="middle"
+        font-size="13"
+        fill="#e2e8f0"
+        font-family="Arial">
+    writing · thinking · creating
+  </text>
+
+</svg>

@@ -62,7 +62,7 @@ More like a **living digital space**.
                    AI · Emotion · Aesthetic
 
 
-                            Snnuy
+                            Sunny
                              │
                              │
                       Personal AI Space

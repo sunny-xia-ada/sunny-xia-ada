@@ -1,0 +1,137 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+
+    <linearGradient id="pinkGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9a8d4"/>
+      <stop offset="50%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#93c5fd"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+
+    <radialGradient id="softPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="softBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="520" rx="28" fill="url(#bg)"/>
+
+  <!-- ambient glows -->
+  <circle cx="210" cy="120" r="150" fill="url(#softPink)" filter="url(#blur)"/>
+  <circle cx="1180" cy="380" r="180" fill="url(#softBlue)" filter="url(#blur)"/>
+  <circle cx="980" cy="120" r="120" fill="url(#softPink)" filter="url(#blur)"/>
+
+  <!-- decorative grid -->
+  <g opacity="0.08">
+    <path d="M0 110 H1400" stroke="#ffffff"/>
+    <path d="M0 210 H1400" stroke="#ffffff"/>
+    <path d="M0 310 H1400" stroke="#ffffff"/>
+    <path d="M0 410 H1400" stroke="#ffffff"/>
+    <path d="M180 0 V520" stroke="#ffffff"/>
+    <path d="M380 0 V520" stroke="#ffffff"/>
+    <path d="M580 0 V520" stroke="#ffffff"/>
+    <path d="M780 0 V520" stroke="#ffffff"/>
+    <path d="M980 0 V520" stroke="#ffffff"/>
+    <path d="M1180 0 V520" stroke="#ffffff"/>
+  </g>
+
+  <!-- loopy-ish bubble cluster -->
+  <g filter="url(#shadow)">
+    <circle cx="210" cy="255" r="82" fill="url(#pinkGlow)"/>
+    <circle cx="255" cy="215" r="34" fill="#fbcfe8" opacity="0.95"/>
+    <circle cx="163" cy="205" r="20" fill="#f9a8d4" opacity="0.95"/>
+    <circle cx="182" cy="292" r="28" fill="#f472b6" opacity="0.95"/>
+    <circle cx="268" cy="285" r="18" fill="#fdf2f8" opacity="0.9"/>
+  </g>
+
+  <!-- floating chips -->
+  <g filter="url(#shadow)">
+    <rect x="1030" y="128" width="210" height="42" rx="21" fill="#111827" opacity="0.9" stroke="#334155"/>
+    <text x="1135" y="154" text-anchor="middle" font-size="16" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif">
+      AI · Emotion · Aesthetic
+    </text>
+
+    <rect x="1030" y="186" width="170" height="42" rx="21" fill="#111827" opacity="0.9" stroke="#334155"/>
+    <text x="1115" y="212" text-anchor="middle" font-size="16" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif">
+      Creative AI Studio
+    </text>
+
+    <rect x="1030" y="244" width="200" height="42" rx="21" fill="#111827" opacity="0.9" stroke="#334155"/>
+    <text x="1130" y="270" text-anchor="middle" font-size="16" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif">
+      Building tools that feel alive
+    </text>
+  </g>
+
+  <!-- title -->
+  <text x="390" y="210"
+        font-size="108"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-weight="700"
+        letter-spacing="2">
+    XYLAB
+  </text>
+
+  <text x="395" y="268"
+        font-size="28"
+        fill="#cbd5e1"
+        font-family="Arial, Helvetica, sans-serif"
+        letter-spacing="1">
+    Personal AI Studio
+  </text>
+
+  <text x="395" y="318"
+        font-size="30"
+        fill="#f9a8d4"
+        font-family="Arial, Helvetica, sans-serif"
+        font-weight="600">
+    warmth · emotion · aesthetic
+  </text>
+
+  <text x="395" y="380"
+        font-size="20"
+        fill="#94a3b8"
+        font-family="Arial, Helvetica, sans-serif">
+    Agents, interfaces, and creative systems for a living digital space
+  </text>
+
+  <!-- bottom mini map -->
+  <g opacity="0.95">
+    <circle cx="456" cy="438" r="8" fill="#ec4899"/>
+    <circle cx="590" cy="438" r="8" fill="#2563eb"/>
+    <circle cx="742" cy="438" r="8" fill="#10b981"/>
+    <circle cx="912" cy="438" r="8" fill="#f97316"/>
+
+    <line x1="464" y1="438" x2="582" y2="438" stroke="#475569" stroke-width="2"/>
+    <line x1="598" y1="438" x2="734" y2="438" stroke="#475569" stroke-width="2"/>
+    <line x1="750" y1="438" x2="904" y2="438" stroke="#475569" stroke-width="2"/>
+
+    <text x="456" y="468" text-anchor="middle" font-size="15" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif">Emotion</text>
+    <text x="590" y="468" text-anchor="middle" font-size="15" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif">Interface</text>
+    <text x="742" y="468" text-anchor="middle" font-size="15" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif">Agents</text>
+    <text x="912" y="468" text-anchor="middle" font-size="15" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif">Space</text>
+  </g>
+</svg>

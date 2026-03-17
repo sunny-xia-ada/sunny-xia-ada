@@ -1,0 +1,18 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0f172a"/>
+
+  <circle cx="160" cy="130" r="60" fill="#ec4899"/>
+  <circle cx="190" cy="110" r="30" fill="#f472b6"/>
+
+  <text x="320" y="120" font-size="64" fill="white" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    XYLAB
+  </text>
+
+  <text x="320" y="170" font-size="26" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif">
+    AI · Emotion · Aesthetic
+  </text>
+
+  <text x="320" y="205" font-size="20" fill="#64748b" font-family="Arial, Helvetica, sans-serif">
+    Creative AI Lab
+  </text>
+</svg>
